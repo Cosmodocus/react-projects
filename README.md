@@ -12,4 +12,5 @@
 ## 🚀 Projects Added On: (02/12/24)
 - QR Code Generator  
 - Light Dark Mode Switch
-- Tree View/Recursive UI 
+- Tree View/Recursive UI
+- Custom Tabs 
