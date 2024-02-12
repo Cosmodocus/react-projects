@@ -8,3 +8,5 @@
 - Image Slider
 - Random Color Generator
 - Load More Data Button
+- QR Code Generator - (02/12/24)
+- Light Dark Mode Switch - (02/12/24)
